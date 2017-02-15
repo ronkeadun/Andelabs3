@@ -1,0 +1,20 @@
+{
+  "name": "Andelabs3",
+  "version": "1.0.0",
+  "description": "aritGeo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronkeadun/Andelabs3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronkeadun/Andelabs3/issues"
+  },
+  "homepage": "https://github.com/ronkeadun/Andelabs3#readme"
+}
